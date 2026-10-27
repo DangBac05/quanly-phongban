@@ -1,0 +1,16 @@
+﻿# Java / Maven
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# Vue / Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.idea/
+frontend/*.iml
+
+# Secrets / local environment files
+.env
+.env.*
+!.env.example
